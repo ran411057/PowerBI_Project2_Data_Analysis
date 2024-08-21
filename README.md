@@ -1,6 +1,7 @@
 1. Project Overview
 
 Project Title: 
+
 Analysis and Visualization of MegaStore Sales Data
 
 Objective: Create a Power BI dashboard using the MegaStore_Sales_Dataset to analyze sales, customer behavior, and inventory. The aim is to give clear insights that help make better business decisions and improve store operations.
